@@ -1,0 +1,7 @@
+div[class*="MuiTextField"] {
+  margin-bottom: 10px;
+}
+
+div[class*="MuiAutocomplete"] > div[class*="MuiFormControl"] {
+  margin-top: -1px;
+}

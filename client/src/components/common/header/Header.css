@@ -1,0 +1,22 @@
+.logo-container {
+  padding: 0px calc(25% - 80px);
+  padding-top: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo-container > h1 {
+  padding-top: 16px;
+}
+
+.notification-btn {
+  color: darkslategrey;
+}
+
+.notification-content {
+  width: 20%;
+}
+
+div[class*="MuiAlert"] {
+  margin-bottom: 10px;
+}

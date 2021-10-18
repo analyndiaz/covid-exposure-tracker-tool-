@@ -1,0 +1,4 @@
+.graph-container > div {
+  width: calc(50% - 8px);
+  height: 100%;
+}

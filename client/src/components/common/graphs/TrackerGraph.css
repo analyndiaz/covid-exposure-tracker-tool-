@@ -1,0 +1,8 @@
+.title {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.graph-style {
+  height: 100%;
+}

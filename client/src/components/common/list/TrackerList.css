@@ -1,0 +1,3 @@
+.list-container > label[class*="MuiFormControlLabel"] {
+  padding-left: 65%;
+}

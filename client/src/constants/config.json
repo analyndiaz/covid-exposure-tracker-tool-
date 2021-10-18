@@ -1,0 +1,9 @@
+{
+  "SocialInteraction_Graph_NumDays": 7,
+  "SocialInteraction_Filter_NumDays": 14,
+  "SocialInteraction_Notif_NumDays": 14,
+
+  "VisitedPlace_Graph_NumDays": 7,
+  "VisitedPlace_Filter_NumDays": 14,
+  "VisitedPlace_Notif_NumDays": 14
+}
